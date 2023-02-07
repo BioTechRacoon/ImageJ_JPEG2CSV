@@ -6,7 +6,9 @@ This macro is a proof of concept for converting random JPEG images to CSV files 
 
 ### Preview
 
-![Interface](https://user-images.githubusercontent.com/106185720/217225170-e2f81d0b-b23e-4702-93e2-ffdfb871b365.PNG  | width=250)
+![Interface](https://user-images.githubusercontent.com/106185720/217225170-e2f81d0b-b23e-4702-93e2-ffdfb871b365.PNG)
+<img src="https://user-images.githubusercontent.com/106185720/217225170-e2f81d0b-b23e-4702-93e2-ffdfb871b365.PNG" width="500" height="300">
+
 
 
 ## Description du projet :
