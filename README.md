@@ -2,14 +2,16 @@
 
 ## Project description :
 
-This macro is a proof of concept for converting random JPEG images to CSV files for more advanced data analysis using data science tools such as R. The user interface allows for setting parameters such as file extension, origin and end coordinates of the graph, and the tolerance for circularity of points. The macro also prompts for the folder containing the images to be analyzed.
+
+erting random JPEG images to CSV files for more advanced data analysis using data science tools such as R. The user interface allows for setting parameters such as file extension, origin and end coordinates of the graph, and the tolerance for circularity of points. The macro also prompts for the folder containing the images to be analyzed.
 
 ### Preview
 
-![Interface](https://user-images.githubusercontent.com/106185720/217225170-e2f81d0b-b23e-4702-93e2-ffdfb871b365.PNG)
 <img src="https://user-images.githubusercontent.com/106185720/217225170-e2f81d0b-b23e-4702-93e2-ffdfb871b365.PNG" width="500" height="300">
 
+### Results 
 
+<img src="https://user-images.githubusercontent.com/106185720/217227125-fad974c0-c943-4445-90da-c0749e2987f1.PNG" width="500" height="300">
 
 ## Description du projet :
 
