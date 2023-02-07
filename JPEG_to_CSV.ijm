@@ -1,20 +1,3 @@
-//Macro random JPEG to csv
-
-//Interface utilisateur
-Dialog.create("Paramètres :");
-Dialog.addString("Extension", "png");
-Dialog.addNumber("Origine X", 110)
-Dialog.addNumber("Origine Y", 238);
-Dialog.addNumber("Fin du graph X", 834);
-Dialog.addNumber("Fin du graph Y", 622);
-Dialog.addNumber("Tolérance de circularité des points", 0.90);
-
-Dialog.show();
-
-//Définition des Variables
-extension= Dialog.getString();
-X1 = Dialog.getNumber();
-Y1 = Dialog.getNumber();
 // Macro to convert random JPEG images to CSV
 
 // User interface
