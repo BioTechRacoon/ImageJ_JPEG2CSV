@@ -3,7 +3,7 @@
 ## Project description :
 
 
-erting random JPEG images to CSV files for more advanced data analysis using data science tools such as R. The user interface allows for setting parameters such as file extension, origin and end coordinates of the graph, and the tolerance for circularity of points. The macro also prompts for the folder containing the images to be analyzed.
+Converting random JPEG images to CSV files for more advanced data analysis using data science tools such as R. The user interface allows for setting parameters such as file extension, origin and end coordinates of the graph, and the tolerance for circularity of points. The macro also prompts for the folder containing the images to be analyzed.
 
 ### Interface - Inputs
 
